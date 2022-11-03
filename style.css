@@ -1,0 +1,12 @@
+.pa{
+    
+    color:white;
+    
+    background-color: black;
+    padding:4%;
+}
+p{
+  max-width: 30%;  
+  margin:0 auto;
+  text-align: center;
+}
